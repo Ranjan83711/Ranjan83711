@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI/ML Engineer & Data Scientist</b> · Generative AI · Agentic AI · RAG · MLOps<br/>
-  📍 Hyderabad, India · 🎯 Open to AI/ML Engineer & Data Science roles across India
+  📍 Delhi, India · 🎯 Open to AI/ML Engineer & Data Science roles across India
 </p>
 
 <p align="center">
